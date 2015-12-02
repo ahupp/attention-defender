@@ -14,7 +14,7 @@ Requires use of userscript extension for your browser like
 Configuration is entirely through the "User Includes" field of the
 script settings.  Mine has:
 
-http*://*reddit.com/*
-http*://news.ycombinator.com/*
+    http*://*reddit.com/*
+    http*://news.ycombinator.com/*
 
 
